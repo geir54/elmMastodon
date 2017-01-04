@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A Mastodon app implemented in Elm-lang",
-    "repository": "https://github.com/geir54/elmMastodon",
+    "repository": "https://github.com/geir54/elmmastodon.git",
     "license": "Mozilla Public License Version 2.0",
     "source-directories": [
         "."
